@@ -29,7 +29,4 @@ To develop a simple calculator using Python that performs basic arithmetic opera
 Addition Result: 40
 
 ## Testing
-Test all four arithmetic operations, invalid inputs, and division by zero.
-
-## Author
-Student GitHub Assignment
+Test all four arithmetic operations, invalid inputs, and division by zero
